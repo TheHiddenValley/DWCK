@@ -45,10 +45,10 @@ export default function AboutPage() {
             <div className="prose max-w-full px-4">
               <h1 className="text-center lg:text-left">QWACK 🐥</h1>
               <p className="">
-                I'm a DWCK that got FWCK by the dev! The community took over so
-                now we are one BIG QWCKing family.. I look at the sky every
-                night and have always dreamed of flying. Help me reach my dream!
-                You will find that someday I will fly and it may be too late.
+                Good DWCKing day to you! I'm just a DWCK but I have always
+                looked at the sky every night wishing to fly. Help me fulfil my
+                dream and take flight with our BIG DWCKing family! You will find
+                that someday I will fly and it may be too late.
               </p>
               <div className="mx-auto size-full">
                 <Image
@@ -58,6 +58,12 @@ export default function AboutPage() {
                   height={750}
                   className="aspect-square object-cover"
                 />
+                <p className="">
+                  The current family has some HUGE DWCKing plans to help me fly
+                  to the moon! With a team of artists, developer and community
+                  leads, check out my Resume for more information. And remember
+                  to keep DWCKing.
+                </p>
               </div>
             </div>
           </section>
