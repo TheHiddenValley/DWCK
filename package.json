@@ -1,12 +1,12 @@
 {
-  "name": "portfolio",
+  "name": "DWCK FWCKs",
   "version": "2.0",
   "private": true,
-  "description": "A replica of a Windows 98 desktop experience (yet still responsive across different screen sizes), made with NextJS, shadcn-ui and TailwindCSS. No external styling was used, everything was designed and styled with my own two hands and (relatively) working brain.",
+  "description": "I'm a DWCK that got FWCK",
   "author": {
-    "name": "jccdev",
-    "email": "jccdev45@gmail.com",
-    "url": "https://jccdev.vercel.app"
+    "name": "DWCK",
+    "email": "DWCK.gmail.com",
+    "url": "https://dwck.art"
   },
   "homepage": "https://github.com/jccdev45/portfolio#readme",
   "repository": {

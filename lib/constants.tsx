@@ -179,7 +179,7 @@ export const myProjects = [
   {
     id: 1,
     title: "Portfolio",
-    desc: `You're on it! Inspired by Windows 98, this is a new redesign for my portfolio to showcase my skills, using a whole mess of components from the incredible `,
+    desc: `I'm a DWCK that got FWCK`,
     tech: ["frontend", "nextjs", "tailwindcss", "shadcn-ui"],
     live: "https://jccdev.vercel.app",
     repoURL: "https://github.com/jccdev45/portfolio-v2",
