@@ -1,6 +1,6 @@
 export const siteConfig = {
   description:
-    "Explore my Windows 98-inspired portfolio blending modern development skills with a nostalgic twist.",
+    "I'm a DWCK that got FWCK by the dev! The community took over so now we are one BIG QWCKing family.. I look at the sky every night and have always dreamed of flying. Help me reach my dream! You will find that someday I will fly and it may be too late.",
   keywords: [
     "jccdev",
     "Jordan Cruz-Correa",
@@ -27,23 +27,25 @@ export const siteConfig = {
     "Vercel",
     "Netlify",
   ],
-  creator: "Jordan Cruz-Correa",
-  author: "jccdev",
+  creator: "DWCK",
+  author: "DWCK",
   openGraph: {
-    title: "jccdev Portfolio",
+    title: "DWCK FWCKs",
     description:
-      "Explore my Windows 98-inspired portfolio blending modern development skills with a nostalgic twist.",
-    url: "https://jccdev.vercel.app",
-    siteName: "jccdev Portfolio",
+      "I'm a DWCK that got FWCK by the dev! The community took over so now we are one BIG QWCKing family.. I look at the sky every night and have always dreamed of flying. Help me reach my dream! You will find that someday I will fly and it may be too late.",
+    url: "https://www.dwck.art/",
+    siteName: "DWCK FWCKs",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "jccdev Portfolio",
+    title: "DWCK",
     description:
-      "Explore my Windows 98-inspired portfolio blending modern development skills with a nostalgic twist.",
-    creator: "@jccdev",
-    images: ["https://jccdev.vercel.app/opengraph-image.jpg"],
+      "I'm a DWCK that got FWCK by the dev! The community took over so now we are one BIG QWCKing family.. I look at the sky every night and have always dreamed of flying. Help me reach my dream! You will find that someday I will fly and it may be too late.",
+    creator: "@itsadwck",
+    images: [
+      "https://pbs.twimg.com/profile_banners/1861846689197211648/1732768088/1080x360",
+    ],
   },
 }
