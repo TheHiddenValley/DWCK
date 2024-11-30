@@ -1,11 +1,11 @@
 {
-  "name": "DWCK FWCKs",
+  "name": "dwck-fwcks",
   "version": "2.0",
   "private": true,
   "description": "I'm a DWCK that got FWCK",
   "author": {
     "name": "DWCK",
-    "email": "DWCK.gmail.com",
+    "email": "dwck@gmail.com",
     "url": "https://dwck.art"
   },
   "homepage": "https://github.com/jccdev45/portfolio#readme",

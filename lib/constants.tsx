@@ -11,8 +11,10 @@ import {
   Instagram,
   Linkedin,
   MailPlus,
+  Music2,
   NotebookPen,
   PlugZap,
+  Send,
   Spade,
   StickyNote,
   Terminal,
@@ -446,18 +448,18 @@ export const toRecycle = [
 export const toRecycle2 = [
   {
     id: 1,
-    title: "Tik Tok",
-    ext: "Social Media",
-    size: "5 followers",
-    icon: <StickyNote className="size-full" />,
-    path: "Coming Soon!",
+    title: "TikTok",
+    ext: "Fanpage for Normies",
+    size: "NEW!",
+    icon: <Music2 className="size-full" />,
+    path: "https://www.tiktok.com/@_dwck_on_dex",
   },
   {
     id: 2,
     title: "X",
     ext: "Social Media",
     size: "200 followers",
-    icon: <StickyNote className="size-full" />,
+    icon: <Twitter className="size-full" />,
     path: "https://x.com/itsadwck",
   },
   {
@@ -465,7 +467,7 @@ export const toRecycle2 = [
     title: "Telegram",
     ext: "Messaging App",
     size: "500 degens",
-    icon: <StickyNote className="size-full" />,
+    icon: <Send className="size-full" />,
     path: "https://t.me/dwckcto",
   },
   {
@@ -473,8 +475,16 @@ export const toRecycle2 = [
     title: "DEXScreener",
     ext: "Crypto Profile",
     size: "300 ROCKETS",
-    icon: <StickyNote className="size-full" />,
+    icon: <Diamond className="size-full" />,
     path: "https://dexscreener.com/solana/d2fivcn4xq8uq2byedpevrfedaeri6zw9lmkixdsavuq",
+  },
+  {
+    id: 5,
+    title: "Instagram",
+    ext: "My Personal Page",
+    size: "NEW!",
+    icon: <Instagram className="size-full" />,
+    path: "https://www.instagram.com/dwck_token",
   },
 ]
 
